@@ -1,5 +1,5 @@
-const companyName = ‘Scuber’
+const companyName = ‘Scuber’;
 
-var mostProfitableNeighborhood = ‘Chelsea’
+let mostProfitableNeighborhood = ‘Chelsea’;
 
-var companyCeo = ‘Susan Smith’
+var companyCeo = ‘Susan Smith’;
